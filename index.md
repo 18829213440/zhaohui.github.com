@@ -1,5 +1,5 @@
 ## 隗兆辉的个人主页
-！[证件照](D:\OneDrive - Aalborg Universitet\Skrivebord\weizhaohui)
+！[证件照](/weizhaohui.jpg)
 ### 个人信息
 #### 姓名 隗兆辉
 #### 学历 硕士
